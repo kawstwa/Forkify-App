@@ -1,0 +1,19 @@
+//// ORIGINAL package.json
+
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Tural Abbasov",
+  "license": "ISC"
+}
+
+//// BASH TERMINAL
+
+$ npm i parcel -D
+$ npm start /// or npm run start
