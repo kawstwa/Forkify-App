@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg'; // "url:" must be written in the beginning of the path for static files
+import icons from 'url:../../../public/icons.svg'; // "url:" must be written in the beginning of the path for static files
 
 export default class View {
   _data;
